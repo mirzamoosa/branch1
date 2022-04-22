@@ -1,5 +1,5 @@
 //Assignment operator
-var a = 2;
+/*var a = 2;
 var b = 8;
 var c =(a+b)*2;
 document.write(c);
@@ -325,4 +325,4 @@ class person{
 
 let person1 = new person('IQra',21);
 person1.add_Address('Delhi');
-person1.getDetails();
+person1.getDetails();*/
